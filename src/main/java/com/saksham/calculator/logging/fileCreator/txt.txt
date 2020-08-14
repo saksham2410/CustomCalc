@@ -1,0 +1,4 @@
+Value, Operation 
+1, Operation{leftOperand=1, rightOperand=2, operation='ADD'}
+2, Operation{leftOperand=3, rightOperand=5, operation='ADD'}
+3, Operation{leftOperand=8, rightOperand=-9, operation='ADD'}
